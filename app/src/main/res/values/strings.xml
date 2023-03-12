@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MAD LAB04</string>
+    <string name="edtName">Email</string>
+    <string name="edtemail">Email</string>
+    <string name="edtPassword">Password</string>
+    <string name="edtReTypePassword">Re Type Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="edtCancel">Cancel</string>
 </resources>
